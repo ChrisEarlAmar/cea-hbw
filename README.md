@@ -10,7 +10,7 @@ CEA-HBW is a hotel booking website developed using PHP and MySQL. This project i
 
 ## Upcoming Features
 
-We plan to deliver the following features in future updates:
+I plan to deliver the following features in future updates:
 
 1. **User Registration and Login (Customer)**: Allow customers to register and log in to their accounts.
 
