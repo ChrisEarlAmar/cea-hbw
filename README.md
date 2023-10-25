@@ -1,6 +1,6 @@
 # CEA-HBW - Hotel Booking Website
 
-CEA-HBW is a hotel booking website developed using PHP and MySQL. This project is currently ongoing and intended for learning purposes. Please note that it is not yet fully finished. This website is a simulated web-based hotel booking environment, and it assumes that the user has already executed their payment during the booking process.
+CEA-HBW is a hotel booking website developed using PHP and MySQL. This project is currently ongoing and intended only for learning purposes. Please note that it is not yet fully finished. This website is a simulated web-based hotel booking environment, and it assumes that the user has already executed their payment during the booking process. This project does not integrate to any APIs for payment methods.
 
 ## Current Features
 
