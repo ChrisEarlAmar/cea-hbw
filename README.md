@@ -4,7 +4,7 @@ CEA-HBW is a hotel booking website developed using PHP and MySQL. This project i
 
 ## Current Features
 
-1. **Customer UI**: This includes user interface pages for customers. The backend functionality is limited to managing the site's title, description, carousel images, facilities, and team member swiper.
+1. **Customer UI**: This includes user interface pages for customers. The backend functionality is limited to fetching from the database and displaying the site's title, description, carousel images, facilities, and team member swiper.
 
 2. **Admin UI**: An admin user interface is available, along with backend functionality. Note that the admin dashboard is not yet implemented.
 
