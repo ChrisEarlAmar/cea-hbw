@@ -28,9 +28,9 @@ To set up this project, follow these steps:
 
 ## Admin Credentials
 
-To access the admin panel, use the following credentials:
+To access the admin panel, go to cea-hbw/admin and use the following credentials:
 
 - **Username**: admin1
 - **Password**: 12345
 
-Feel free to explore and contribute to this project as it continues to develop!
+Feel free to explore this project as it continues to develop!
